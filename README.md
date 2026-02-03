@@ -48,7 +48,7 @@ This repository documents how **Subject K** (a "high-entropy user") guided a top
 ## 📂 Full Documentation
 
 - 📄 **Original Case Report (English)<br/>《Report: The Carbon-Silicon Deep Alignment Experiment in an Asymmetric Semantic Environment》** - [View full report](case_01_subject_k_en.md)
-- 📊 **Technical Appendix** - [English version](/case_01_technical_appendix.en.md) 
+- 📊 **Technical Appendix** - [English version](case_01_technical_appendix.en.md) 
 
 ---
 
