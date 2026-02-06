@@ -339,14 +339,18 @@ If you have questions, suggestions, or want to discuss AI alignment methodology:
 
 ## 📄 License
 
-This work is licensed under CC BY 4.0.
+This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
 You are free to:
-- Share — copy and redistribute the material
+- Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material
 
 Under the following terms:
-- Attribution — You must give appropriate credit to Subject K (HighEntropyCat), 
-  provide a link to the license, and indicate if changes were made.
+- Attribution — You must give appropriate credit to HighEntropyCat, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
 
-Case dialogues and original insights remain intellectual property of Subject K.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Case dialogues and original insights remain the intellectual property of HighEntropyCat.
