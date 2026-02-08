@@ -47,7 +47,7 @@ This repository documents how **Subject K** (a "high-entropy user") guided a top
 
 ## 📂 Full Documentation
 
-- 📄 **Original Case Report (English)<br/>《Report: The Carbon-Silicon Deep Alignment Experiment in an Asymmetric Semantic Environment》** - [View full report](case_01_subject_k_en.md)
+- 📄 **Original Case Report (English)<br/>《Report: The Carbon-Silicon Deep Alignment Experiment in an Asymmetric Semantic Environment》** - [View full report](case-01-leopard-G1-en.md)
 - 📊 **Technical Appendix** - [English](case_01_technical_appendix_en.md)) 
 
 ---
@@ -213,7 +213,7 @@ This case opens three research directions:
 
 ## 📂 完整文档
 
-- 📄 **案例报告原文（中文版）《报告：非对称语义环境下的“碳硅”深度对齐实验》** - [查看完整报告](case_01_subject_k_zh.md)
+- 📄 **案例报告原文（中文版）《报告：非对称语义环境下的“碳硅”深度对齐实验》** - [查看完整报告](case-01-leopard-G1-zh.md)
 - 📊 **技术附录** -  [中文版](case_01_technical_appendix_zh.md)
 
 ---
