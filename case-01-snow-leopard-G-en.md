@@ -316,7 +316,7 @@ No external supervision needed
 
 #### 3.7 Original Formula Images
 
-![Figure 1](image/Desire_Less_Than_Self_Restraint.jpg)
+![Figure 1](image/Desire_Less_Than_Self_Restraint.jpg.jpg)
 
 *Figure 1: Constraint condition - `Desire() < Self_Restraint()`*
 
